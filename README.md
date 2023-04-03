@@ -1,2 +1,2 @@
-# Exerc-cio-APS
+# Exercicio-APS
 Atividade 01/04
